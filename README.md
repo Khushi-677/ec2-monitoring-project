@@ -70,36 +70,48 @@ Telegram Alerts
 ## 📊 Full Monitoring Dashboard
 
 <p align="center">
-  <img src="dashboard.png" width="45%" />
-  <img src="dashboard0.png" width="45%" />
+  <img src="dashboard.png" width="90%" />
+</p>
+
+<p align="center">
+  <img src="dashboard0.png" width="90%" />
 </p>
 
 ---
 
 ## 🌐 Network & Performance
 
-![Network](network.png)
+<p align="center">
+  <img src="network.png" width="90%" />
+</p>
 
 ---
 
 ## 🚨 Alert Trigger (Grafana / Telegram)
 
 <p align="center">
-  <img src="alert.png" width="45%" />
-  <img src="alert0.jpeg" width="45%" />
+  <img src="alert.png" width="90%" />
+</p>
+
+<p align="center">
+  <img src="alert0.jpeg" width="90%" />
 </p>
 
 ---
 
 ## 🖥 System Information & Health
 
-![Info](info.png)
+<p align="center">
+  <img src="info.png" width="90%" />
+</p>
 
 ---
 
 ## 💰 Cost Optimization Panel
 
-![Cost](cost.png)
+<p align="center">
+  <img src="cost.png" width="90%" />
+</p>
 
 ---
 
