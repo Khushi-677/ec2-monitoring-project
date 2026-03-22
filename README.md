@@ -70,8 +70,8 @@ Telegram Alerts
 ## 📊 Full Monitoring Dashboard
 
 <p align="center">
-  <img src="dashboard.png" width="90%" />
-  <img src="dashboard0.png" width="90%" />
+  <img src="dashboard.png" width="45%" />
+  <img src="dashboard0.png" width="45%" />
 </p>
 
 ---
