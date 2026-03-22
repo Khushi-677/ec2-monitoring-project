@@ -7,7 +7,7 @@
 # 🚀 EC2 Real-Time Monitoring System
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="90%" alt="Dashboard Preview"/>
+  <img src="dashboard.png" width="90%" alt="Dashboard Preview"/>
 </p>
 
 ---
@@ -69,31 +69,37 @@ Telegram Alerts
 
 ## 📊 Full Monitoring Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<p align="center">
+  <img src="dashboard.png" width="90%" />
+  <img src="dashboard0.png" width="90%" />
+</p>
 
 ---
 
-## 🌐 Network & Performance (Real-time Traffic + Disk IO)
+## 🌐 Network & Performance
 
-![Network](screenshots/network.png)
+![Network](network.png)
 
 ---
 
-## 🚨 Alert Trigger (Grafana / Telegram Notification)
+## 🚨 Alert Trigger (Grafana / Telegram)
 
-![Alert](screenshots/alert.png)
+<p align="center">
+  <img src="alert.png" width="45%" />
+  <img src="alert0.jpeg" width="45%" />
+</p>
 
 ---
 
 ## 🖥 System Information & Health
 
-![Info](screenshots/info.png)
+![Info](info.png)
 
 ---
 
-## 💰 Cost Optimization Panel (Idle Resource Detection)
+## 💰 Cost Optimization Panel
 
-![Cost](screenshots/cost.png)
+![Cost](cost.png)
 
 ---
 
@@ -186,4 +192,3 @@ This project demonstrates:
 ## 📫 Let's Connect
 
 Open to DevOps & Cloud opportunities 🚀
-give full readme
