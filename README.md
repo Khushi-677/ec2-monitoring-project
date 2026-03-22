@@ -7,7 +7,7 @@
 # 🚀 EC2 Real-Time Monitoring System
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="90%" alt="Dashboard Preview"/>
+  <img src="screenshots/dashboard0.png" width="90%" alt="Dashboard Preview"/>
 </p>
 
 ---
@@ -70,11 +70,11 @@ Telegram Alerts
 ## 📊 Full Monitoring Dashboard
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="90%" />
+  <img src="screenshots/dashboard0.png" width="90%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/dashboard0.png" width="90%" />
+  <img src="screenshots/dashboard.png" width="90%" />
 </p>
 
 ---
