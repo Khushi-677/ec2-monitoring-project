@@ -1,0 +1,7 @@
+.cache/
+.local/
+.ssh/
+*.log
+nohup.out
+node_exporter*
+.env
