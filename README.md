@@ -7,7 +7,7 @@
 # 🚀 EC2 Real-Time Monitoring System
 
 <p align="center">
-  <img src="dashboard.png" width="90%" alt="Dashboard Preview"/>
+  <img src="screenshots/dashboard.png" width="90%" alt="Dashboard Preview"/>
 </p>
 
 ---
@@ -70,11 +70,11 @@ Telegram Alerts
 ## 📊 Full Monitoring Dashboard
 
 <p align="center">
-  <img src="dashboard.png" width="90%" />
+  <img src="screenshots/dashboard.png" width="90%" />
 </p>
 
 <p align="center">
-  <img src="dashboard0.png" width="90%" />
+  <img src="screenshots/dashboard0.png" width="90%" />
 </p>
 
 ---
@@ -82,7 +82,7 @@ Telegram Alerts
 ## 🌐 Network & Performance
 
 <p align="center">
-  <img src="network.png" width="90%" />
+  <img src="screenshots/network.png" width="90%" />
 </p>
 
 ---
@@ -90,11 +90,11 @@ Telegram Alerts
 ## 🚨 Alert Trigger (Grafana / Telegram)
 
 <p align="center">
-  <img src="alert.png" width="90%" />
+  <img src="screenshots/alert.png" width="90%" />
 </p>
 
 <p align="center">
-  <img src="alert0.jpeg" width="90%" />
+  <img src="screenshots/alert0.jpeg" width="90%" />
 </p>
 
 ---
@@ -102,7 +102,7 @@ Telegram Alerts
 ## 🖥 System Information & Health
 
 <p align="center">
-  <img src="info.png" width="90%" />
+  <img src="screenshots/info.png" width="90%" />
 </p>
 
 ---
@@ -110,7 +110,7 @@ Telegram Alerts
 ## 💰 Cost Optimization Panel
 
 <p align="center">
-  <img src="cost.png" width="90%" />
+  <img src="screenshots/cost.png" width="90%" />
 </p>
 
 ---
@@ -120,8 +120,8 @@ Telegram Alerts
 ### 1️⃣ Clone repository
 
 ```bash
-git clone https://github.com/Khushi-677/ec2-monitoring.git
-cd ec2-monitoring
+git clone https://github.com/Khushi-677/ec2-monitoring-project.git
+cd ec2-monitoring-project
 ```
 
 ---
@@ -197,7 +197,7 @@ This project demonstrates:
 
 ## 🔗 Project Link
 
-👉 https://github.com/Khushi-677/ec2-monitoring
+👉 https://github.com/Khushi-677/ec2-monitoring-project
 
 ---
 
